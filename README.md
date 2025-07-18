@@ -1,58 +1,21 @@
-AIML-Projects
-A collection of AI and Machine Learning projects covering classification, prediction, detection, and deep learning applications using Python, TensorFlow, Keras, and Scikit-learn.
-🧠 AI/ML Project Portfolio by Abdul Muqeet
-
-Welcome to my Artificial Intelligence & Machine Learning project portfolio!  
-This repository contains a collection of hands-on projects that demonstrate my experience in solving real-world problems using AI/ML techniques — from computer vision and sound detection to anomaly detection and time-series forecasting.
-
-📂 Projects Overview
-
-🚗 Computer Vision & Image Processing
-- Autonomous Car Detection  
-  Identifies autonomous vehicles using CNNs for traffic management and smart mobility solutions.
-  
-- Garbage Detection Model  
-  Detects and classifies waste in images using a deep learning-based CNN architecture to support automated waste management.
-
-- Aerospace Aircraft Detection  
-  A model trained to recognize and classify aerospace aircraft in aerial images.
-
-- SkyView Aerial Landscape Classification  
-  Classifies various aerial views and landscapes using image classification techniques.
-
-- Image Anomaly Detection  
-  Detects abnormal patterns or defects in images using unsupervised ML methods.
-
-🔊 Audio & Sound Analysis
-- Gunshot Sound Detection  
-  Identifies gunshot sounds from ambient audio recordings using audio preprocessing and deep learning.
-
-- Motor Engine Sound Detection  
-  Detects faulty or abnormal motor sounds, helping in predictive maintenance using sound classification models.
-
- ☔ Forecasting & Prediction
-- Rainfall Prediction  
-  Predicts rainfall using Random Forest based on historical weather and climate data.
-
-- Stock Market Forecasting (LSTM)  
-  Forecasts future stock prices using Long Short-Term Memory (LSTM) networks for time-series analysis.
+# 💫 About Me:
+👋 Hi, I'm Abdul Muqeet<br><br>🎓 I'm a Computer Science student at SR University specializing in Artificial Intelligence and Machine Learning with a CGPA of 9.23/10. I’m passionate about building real-world AI applications and solving impactful problems in areas like computer vision, robotics, and space technology.<br><br>📍 Based in Hyderabad, India, I’ve worked on several machine learning and deep learning projects, and I’ve gained hands-on experience with modern tools and frameworks across the AI/ML stack.<br><br>🚀 Tech Stack<br><br>Languages:<br>Python | Java | C | JavaScript | HTML | CSS<br><br>Frameworks & Libraries: <br>TensorFlow | Keras | Flutter | Git | Google Colab<br><br>Domains & Tools:<br>Machine Learning | Deep Learning | Computer Vision | Generative AI | Data Structures & Algorithms | Operating Systems | Network Security | App Development | GitHub<br><br>Soft Skills:  <br>Creative Thinking | Problem Solving | Innovation | Team Leadership | Communication (English, Hindi, Telugu)<br><br>💼 Experience<br><br>🌐 CloudVeto – Internship  <br>Built a Map Navigation App using Flutter with GPS tracking and optimized routing.  <br>- Reduced latency by 20% and enhanced UI/UX using Provider for state management.  <br>- Designed & deployed full-stack mobile applications from scratch.<br><br><br> 📊 Projects<br><br> 🔍 Autonomous Car Detection  <br>- Built a CNN model to detect autonomous vehicles in traffic scenarios.  <br>- Technologies Used: Python, TensorFlow, Keras  <br>- Achieved 88% accuracy using data augmentation techniques.<br><br> 🗑️ Garbage Detection Model  <br>- Developed an image classification model for garbage detection.  <br>- Technologies Used: Python, TensorFlow, Keras  <br>- Achieved 92% accuracy, ideal for smart waste management.<br><br><br>🏅 Certifications<br>- Data Structures and Algorithms – Coursera  <br>- Theory of Computation – NPTEL  <br>- Prompt Engineering: Generative AI – Infosys Springboard  <br>- GPT-3 for Developers – Infosys Springboard  <br>- Transformers for NLP – Infosys Springboard  <br>- Introduction to GPT-4 – Infosys Springboard<br><br><br> 🏆 Achievements<br>- 🥇 4th Place – University-Level Coding Hackathon  <br>- 🥉 3rd Place – Mock Stock Market Simulation  <br>- 🎓 Former Head Boy – Leadership and Organizational Excellence<br><br><br> 📫 Contact Me<br><br>📧 Email: [abdl,muqeet127@gmail.com](mailto:abdl.muqeet127@gmail.com)  <br>📞 Phone: +91-9963196901  <br>🌐 Portfolio: [Portfolio](https://abdul-muqeet-portfolio.netlify.app/)  <br>🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/abdul-muqeet07/)  <br>💻 GitHub: [abdlmuqeet127](https://github.com/abdlmuqeet127)<br><br>⚡ Always exploring new tech and building solutions that matter.<br>
 
 
-🌐 Web & Security
-- Crime Detection Model  
-  Predictive model to detect and analyze crime patterns using historical datasets for public safety.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdul-muqeet07/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdl.muqeet127@gmail.com) 
 
-- Malicious Website Identification  
-  Uses classification algorithms to identify and flag suspicious or harmful websites based on URL patterns and metadata.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abdlmuqeet127&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abdlmuqeet127&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdlmuqeet127&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🛠 Technologies & Tools Used
-- Languages: Python  
-- Libraries & Frameworks:  
-  `TensorFlow`, `Keras`, `Scikit-learn`, `Pandas`, `NumPy`, `Matplotlib`, `OpenCV`, `Librosa`
+---
+[![](https://visitcount.itsvg.in/api?id=abdlmuqeet127&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- Techniques:  
-  Convolutional Neural Networks (CNN), LSTM, Random Forest, Sound Feature Extraction, Anomaly Detection
-
-🔧 Project Structure
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
